@@ -3,6 +3,8 @@
 This cookbook demonstrates the use of Terraform in the build_cookbook's provision
 phase to instantiate nodes for converging and running integration tests against.
 
+`delivery_terraform` exists here for the time being: https://github.com/jeremymv2/delivery-sugar/tree/jeremymv2/terraform
+
 # TODO
 Secrets Management! - this is next highest priority.
 
